@@ -1,11 +1,10 @@
 package com.milano.milano.domain.event;
 
-import java.sql.Date;
+import java.util.Date;
 import java.util.UUID;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
